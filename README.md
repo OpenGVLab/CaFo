@@ -1,6 +1,6 @@
 # Prompt, Generate, then Cache
 
-Official implementation of ['Prompt, Generate, then Cache: Cascade of Foundation Models makes Strong Few-shot Learners'](https://github.com/ZrrSkywalker/CaFo/blob/main/CaFo.pdf).
+Official implementation of ['Prompt, Generate, then Cache: Cascade of Foundation Models makes Strong Few-shot Learners'](https://github.com/ZrrSkywalker/CaFo/blob/main/CaFo_arXiv.pdf).
 
 The paper has been accepted by **CVPR 2023** 🔥.
 
