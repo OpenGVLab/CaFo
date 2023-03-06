@@ -1,0 +1,38 @@
+# ------ root_path------
+root_path: ''
+
+
+# ------ Load Cache and Features ------
+load_cache: False
+load_pre_feat: False
+
+# load_cache: True
+# load_pre_feat: True
+
+
+# ------ Hyperparamters ------
+search_hp: True
+# search_hp: False
+
+search_scale: [13, 13]
+search_step: [200, 20]
+
+init_beta: 1
+init_alpha: 2
+
+gpt3_prompt_file: './gpt_file/dtd_prompt.json'
+
+# ------ Basic Config ------
+dataset: 'dtd'
+shots: 4
+clip_backbone: 'RN50'
+dino_backbone: 'resnet50'
+
+# ------ Dalle Dataset -----
+dalle_dataset: 'dalle_dtd'
+dalle_shots: 1
+
+
+lr: 0.001
+augment_epoch: 10
+train_epoch: 20

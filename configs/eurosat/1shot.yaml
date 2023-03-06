@@ -1,0 +1,36 @@
+# ------ root_path ------
+root_path: ''
+
+
+# ------ Load Cache and Features ------
+load_cache: False
+load_pre_feat: False
+# load_cache: True
+# load_pre_feat: True
+
+
+# ------ Hyperparamters ------
+search_hp: True
+# search_hp: False
+
+search_scale: [12, 10]
+search_step: [200, 20]
+
+init_beta: 1
+init_alpha: 3
+
+gpt3_prompt_file: './gpt_file/eurosat_prompt.json'
+
+# ------ Basic Config ------
+dataset: 'eurosat'
+shots: 1
+clip_backbone: 'RN50'
+dino_backbone: 'resnet50'
+
+# ------ Dalle Dataset -----
+dalle_dataset: 'dalle_eurosat'
+dalle_shots: 4
+
+lr: 0.001
+augment_epoch: 10
+train_epoch: 20

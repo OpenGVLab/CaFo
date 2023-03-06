@@ -1,0 +1,37 @@
+# ------ root_path ------
+root_path: ''
+
+
+# ------ Load Cache and Features ------
+load_cache: False
+load_pre_feat: False
+
+# load_cache: True
+# load_pre_feat: True
+
+
+# ------ Hyperparamters ------
+search_hp: True
+# search_hp: False
+
+search_scale: [7, 3]
+search_step: [200, 20]
+
+init_beta: 1
+init_alpha: 2
+
+gpt3_prompt_file: './gpt_file/ucf101_prompt.json'
+
+# ------ Basic Config ------
+dataset: 'ucf101'
+shots: 16
+clip_backbone: 'RN50'
+dino_backbone: 'resnet50'
+
+# ------ Dalle Dataset -----
+dalle_dataset: 'dalle_ucf'
+dalle_shots: 2
+
+lr: 0.001
+augment_epoch: 10
+train_epoch: 40

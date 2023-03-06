@@ -1,0 +1,34 @@
+# ------ root_path ------
+root_path: ''
+
+
+# ------ Load Cache and Features ------
+load_cache: False
+load_pre_feat: False
+
+
+# ------ Hyperparamters ------
+search_hp: True
+# search_hp: False
+
+search_scale: [7, 3]
+search_step: [200, 20]
+
+init_beta: 1
+init_alpha: 0.6
+
+gpt3_prompt_file: './gpt_file/imagenet_prompt.json'
+
+# ------ Basic Config ------
+dataset: 'ImageNet'
+shots: 16
+clip_backbone: 'RN50' # ['RN50', 'RN101', 'RN50x4', 'RN50x16', 'ViT-B/32', 'ViT-B/16']
+dino_backbone: 'resnet50'
+
+# ------ Dalle Dataset -----
+dalle_dataset: 'dalle_imagenet'
+dalle_shots: 2
+
+lr: 0.001
+augment_epoch: 1
+train_epoch: 20

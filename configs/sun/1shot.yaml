@@ -1,0 +1,36 @@
+# ------ root_path ------
+root_path: ''
+
+
+# ------ Load Cache and Features ------
+load_cache: False
+load_pre_feat: False
+# load_cache: True
+# load_pre_feat: True
+
+
+# ------ Hyperparamters ------
+search_hp: True
+# search_hp: False
+
+search_scale: [12, 10]
+search_step: [200, 20]
+
+init_beta: 1
+init_alpha: 0.5
+
+gpt3_prompt_file: './gpt_file/sun397_prompt.json'
+
+# ------ Basic Config ------
+dataset: 'sun397'
+shots: 1
+clip_backbone: 'RN50'
+dino_backbone: 'resnet50'
+
+# ------ Dalle Dataset -----
+dalle_dataset: 'dalle_sun'
+dalle_shots: 1
+
+lr: 0.001
+augment_epoch: 10
+train_epoch: 20
