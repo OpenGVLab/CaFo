@@ -36,7 +36,7 @@ Please follow [DATASET.md](https://github.com/gaopengcuhk/Tip-Adapter/blob/main/
 
 ### Foundation Models
 * The pre-tained weights of **CLIP** will be automatically downloaded by running.
-* The prompts produced by GPT-3 have been stored at `gpt_prompt/`.
+* The prompts produced by GPT-3 have been stored at `gpt_file/`.
 * Please download **DINO's** pre-trained ResNet-50 from [here](https://dl.fbaipublicfiles.com/dino/dino_resnet50_pretrain/dino_resnet50_pretrain.pth), and put it under `dino/`.
 * Please download **DALL-E's** generated images from [here](https://drive.google.com/drive/folders/1e249OgUFCmpfEDPsxCVR-nNb6Q1VaZVW?usp=sharing), and organize them with the official datasets like
 ```
