@@ -20,5 +20,15 @@ Comming soon.
 ## Acknowledgement
 This repo benefits from [Tip-Adapter](https://github.com/gaopengcuhk/Tip-Adapter), [CLIP](https://github.com/openai/CLIP), [DINO](https://github.com/facebookresearch/dino), [DALL-E](https://github.com/borisdayma/dalle-mini) and [CuPL](https://github.com/sarahpratt/CuPL). Thanks for their wonderful works.
 
+## Citation
+```bash
+@article{zhang2023prompt,
+  title={Prompt, Generate, then Cache: Cascade of Foundation Models makes Strong Few-shot Learners},
+  author={Renrui Zhang, Xiangfei Hu, Bohao Li, Siyuan Huang, Hanqiu Deng, Hongsheng Li, Yu Qiao, Peng Gao},
+  journal={arXiv preprint arXiv:2303.02151},
+  year={2023}
+}
+```
+
 ## Contact
 If you have any question about this project, please feel free to contact zhangrenrui@pjlab.org.cn.
