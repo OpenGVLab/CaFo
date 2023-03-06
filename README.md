@@ -5,6 +5,7 @@ Official implementation of ['Prompt, Generate, then Cache: Cascade of Foundation
 The paper has been accepted by **CVPR 2023** 🔥.
 
 ## News
+* The code of CaFo has been released 📌.
 * The CaFo model is developed based on [Tip-Adapter](https://arxiv.org/pdf/2207.09519), accepted by **ECCV 2022** and [open-sourced](https://github.com/gaopengcuhk/Tip-Adapter).
 
 ## Introduction
@@ -14,11 +15,61 @@ We propose **CaFo**, a **Ca**scade of **Fo**undation models that incorporates di
   <img src="CaFo.png"/>
 </div>
 
-## Code
-Comming soon.
+## Requirements
+### Installation
+Create a conda environment and install dependencies:
+```bash
+git clone https://github.com/ZrrSkywalker/CaFo.git
+cd CaFo
+
+conda create -n cafo python=3.7
+conda activate cafo
+
+pip install -r requirements.txt
+
+# Install the according versions of torch and torchvision
+conda install pytorch torchvision cudatoolkit
+```
+
+### Dataset
+Please follow [DATASET.md](https://github.com/gaopengcuhk/Tip-Adapter/blob/main/DATASET.md) to download official ImageNet and other 10 datasets.
+
+### Foundation Models
+* The pre-tained weights of **CLIP** will be automatically downloaded by running.
+* The prompts produced by GPT-3 have been stored at `gpt_prompt/`.
+* Please download **DINO's** pre-trained ResNet-50 from [here](https://dl.fbaipublicfiles.com/dino/dino_resnet50_pretrain/dino_resnet50_pretrain.pth), and put it under `dino/`.
+* Please download **DALL-E's** generated images from [here](https://drive.google.com/drive/folders/1e249OgUFCmpfEDPsxCVR-nNb6Q1VaZVW?usp=sharing), and organize them with the official datasets like
+```
+$DATA/
+|–– imagenet/
+|–– caltech-101/
+|–– oxford_pets/
+|–– ...
+|–– dalle_imagenet/
+|–– dalle_caltech-101/
+|–– dalle_oxford_pets/
+|–– ...
+```
+
+## Get Started
+### Configs
+The running configurations for different `[dataset]` with `[k]` shots can be modified in `configs/[dataset]/[k]shot.yaml`, including visual encoders and hyperparamters. We have provided the configurations for reproducing the results in the paper. You can edit the `search_scale`, `search_step`, `init_beta` and `init_alpha` for fine-grained tuning and better results.
+
+Note that the default `load_cache` and `load_pre_feat` are `False` for the first running, which will store the cache model and val/test features in `configs/dataset/`. For later running, they can be set as `True` for faster hyperparamters tuning.
+
+### Running
+For 16-shot ImageNet dataset:
+```bash
+CUDA_VISIBLE_DEVICES=0 python main_imagenet.py --config configs/imagenet/16shot.yaml
+```
+For other 10 datasets:
+```bash
+CUDA_VISIBLE_DEVICES=0 python main.py --config configs/dataset/16shot.yaml
+```
 
 ## Acknowledgement
 This repo benefits from [Tip-Adapter](https://github.com/gaopengcuhk/Tip-Adapter), [CLIP](https://github.com/openai/CLIP), [DINO](https://github.com/facebookresearch/dino), [DALL-E](https://github.com/borisdayma/dalle-mini) and [CuPL](https://github.com/sarahpratt/CuPL). Thanks for their wonderful works.
+
 
 ## Citation
 ```bash
@@ -30,5 +81,8 @@ This repo benefits from [Tip-Adapter](https://github.com/gaopengcuhk/Tip-Adapter
 }
 ```
 
+## Contributors
+[Renrui Zhang](https://github.com/ZrrSkywalker), [Xiangfei Hu](https://github.com/hxf42), Bohao Li
+
 ## Contact
-If you have any question about this project, please feel free to contact zhangrenrui@pjlab.org.cn.
+If you have any question about this project, please feel free to contact zhangrenrui@pjlab.org.cn and sjtuhxf@sjtu.edu.cn.
