@@ -5,7 +5,8 @@ Official implementation of ['Prompt, Generate, then Cache: Cascade of Foundation
 The paper has been accepted by **CVPR 2023** 🔥.
 
 ## News
-* The code of CaFo has been released 📌.
+* We will soon release CaFo cascaded with [ChatGPT](https://openai.com/blog/chatgpt) and [Stable Diffusion](https://github.com/CompVis/stable-diffusion) 📌.
+* The code of CaFo has been released.
 * The CaFo model is developed based on [Tip-Adapter](https://arxiv.org/pdf/2207.09519), accepted by **ECCV 2022** and [open-sourced](https://github.com/gaopengcuhk/Tip-Adapter).
 
 ## Introduction
@@ -82,7 +83,7 @@ This repo benefits from [Tip-Adapter](https://github.com/gaopengcuhk/Tip-Adapter
 ```
 
 ## Contributors
-[Renrui Zhang](https://github.com/ZrrSkywalker), [Xiangfei Hu](https://github.com/hxf42), Bohao Li
+[Renrui Zhang](https://github.com/ZrrSkywalker), [Xiangfei Hu](https://github.com/hxf42), [Bohao Li](https://github.com/Bohao-Lee)
 
 ## Contact
 If you have any question about this project, please feel free to contact zhangrenrui@pjlab.org.cn and sjtuhxf@sjtu.edu.cn.
