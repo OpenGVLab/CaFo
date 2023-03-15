@@ -5,6 +5,7 @@ Official implementation of ['Prompt, Generate, then Cache: Cascade of Foundation
 The paper has been accepted by **CVPR 2023** 🔥.
 
 ## News
+* Please check our latest work ['Parameter is Not All You Need'](https://arxiv.org/pdf/2303.08134.pdf) with [code](https://github.com/ZrrSkywalker/Point-NN), accepted by **CVPR 2023** 🔥, which conducts 3D understanding without ant parameters or training.
 * We will soon release CaFo cascaded with [ChatGPT](https://openai.com/blog/chatgpt) and [Stable Diffusion](https://github.com/CompVis/stable-diffusion) 📌.
 * The code of CaFo has been released.
 * The CaFo model is developed based on [Tip-Adapter](https://arxiv.org/pdf/2207.09519), accepted by **ECCV 2022** and [open-sourced](https://github.com/gaopengcuhk/Tip-Adapter).
