@@ -1,0 +1,789 @@
+{
+    "face": ["A face typically has two eyes, a nose, a mouth, and two ears. ","The eyes are usually located above the nose and mouth, with the ears on either side of the head. ","The nose is typically in the center of the face, above the mouth."],
+    "leopard": ["SLeopards have a distinctive spotted coat with black spots on a yellow or orange background.",
+        "Leopards have a muscular and agile body that is built for hunting and climbing.",
+        "The spots on their coat are often arranged in a circular shape, known as rosettes.",
+        "Leopards have a large head with powerful jaws.",
+        "Leopards have sharp retractable claws that help them climb trees and catch prey."],
+    "motorbike": [
+        "A motorbike typically has a long, narrow body with two wheels and a seat for the rider. ",
+    "It usually has a gas tank, handlebars, foot pegs or floorboards, and a variety of gauges and controls on the dashboard.",
+    "The front of the bike usually has a headlight and may also have a windshield for protection against wind and debris. ",
+    "The engine is often located between the wheels and is covered by a protective casing.",
+    "The back of the bike may have a passenger seat or a luggage rack, and the wheels may be equipped with disc brakes for stopping power."],
+    "accordion": [
+        "An accordion is a musical instrument with a box-like shape.",
+        "An accordion typically has a rectangular or trapezoidal body that is made of wood, metal, or plastic.",
+        "The body is usually covered with leather or other materials to protect it.",
+        "The accordion has a set of bellows that are used to produce sound.",
+        "The bellows are made of pleated paper or fabric, and are squeezed together and pulled apart to create air pressure that produces sound.",
+        "The accordion also has a set of buttons or keys on the front of the body that are used to play different notes and chords."],
+    "airplane": [
+        "An airplane has a long, streamlined body with wings on either side that provide lift to keep the airplane in the air.",
+        "The wings are usually curved on the top and flat on the bottom, and they have flaps and ailerons that can be adjusted to control the airplane's speed and altitude.",
+        "At the front of the airplane is the cockpit, where the pilots sit and control the aircraft using a variety of instruments and controls.",
+        "The cockpit usually has large windows that provide a clear view of the surrounding airspace.",
+        "The tail of the airplane is made up of a vertical stabilizer and a horizontal stabilizer, which help to keep the airplane stable in flight."
+    ],
+    "anchor": [
+         "An anchor is typically made of metal, such as iron or steel.",
+         "It has a heavy weight and a distinctive shape that resembles a cross or a T.",
+         "The main part of the anchor is called the shank, which is the long, straight part of the anchor that connects to the chain or rope.",
+         "At the bottom of the shank is the fluke, which is the pointed part of the anchor that digs into the sea floor to hold the ship in place.",
+         "The anchor may also have arms, called flukes or bills, that are curved and angled to help the anchor set and hold onto the seabed."
+    ],
+    "ant": [
+        "Ants are small, typically only a few millimeters in length.",
+        "Ants have six legs and a segmented body with three distinct parts: the head, thorax, and abdomen.",
+         "The head of an ant has two antennae, which are used for sensing their environment and communicating with other ants.",
+         "Ants have two small eyes, called ocelli, on the top of their head that can detect light and movement.",
+         "Depending on the species, ants can range in color from black, brown, red, or yellow."
+    ],
+    "barrel": [
+         "A barrel is a cylindrical container, meaning it has a circular cross section and a consistent diameter throughout its length.",
+        
+         "Barrels are typically made of wood, although they can also be made of metal or plastic.",
+
+        " The wood staves of a barrel are bound together with metal hoops or bands that encircle the barrel.",
+
+         "The ends of a barrel are usually rounded and slightly convex, although some barrels have flat ends.",
+
+         "Barrels can come in a range of sizes, from small ones used for storing liquids like wine or whiskey, to large ones used for shipping goods like oil or grain."
+],
+    "bass": [
+         "Bass is a freshwater fish that belongs to the family of sunfish.",
+         "They have an elongated and streamlined body shape.",
+         "The color of the bass ranges from light green to dark green, with a white belly.",
+         "The back of the bass is usually darker than the sides, and it has black stripes or blotches along the sides.",
+        "The mouth of the bass is large, and it has a lower jaw that extends beyond the upper jaw."
+    ],
+    "beaver": [
+         "Beavers are large rodents that can grow up to 3-4 feet long.",
+         "Beavers have a stocky and compact body with short legs.",
+         "Beavers fur is dense, waterproof and varies in color from dark brown to reddish-brown.",
+         "Beavers have a broad, flat tail covered in scales, which they use to swim, steer, and communicate with other beavers.",
+         "Beavers have large, sharp front teeth that never stop growing, and they use them to cut down trees and build dams and lodges.",
+         "Beavers eyes and ears are small and set back on their head to allow them to see and hear while swimming with most of their body submerged.",
+         "Beavers have webbed hind feet that help them swim and dive underwater to forage for food or escape predators."
+    ],
+    "binocular": [
+         "Binocular is usually rectangular or oval-shaped, with a slightly curved surface to fit comfortably in the hands.",
+         "The two lenses are set into the front of the device and are typically surrounded by a rubberized or plastic housing.",
+         "There may be a small knob or lever in the center of the binocular that allows the user to adjust the distance between the two lenses, known as the interpupillary distance.",
+         "On the top of binocular, there may be a small dial or knob that allows the user to focus each lens individually.",
+         "The eyepieces are located on the back of the device and are typically covered with rubber or plastic cups that fit over the eyes.",
+         "The device may also include additional features such as a neck strap, carrying case, or lens covers to protect the lenses when not in use."
+    ],
+    "bonsai": [
+        "A bonsai is a miniature tree that is grown and trained to have a specific shape and style.",
+        "The tree is small in size, ranging from a few inches to a few feet tall.",
+         "The trunk of the tree is often twisted or gnarled, giving it a unique and interesting appearance.",
+         "The branches are carefully pruned and shaped to create a specific design or style, such as cascade, formal upright, or windswept.",
+         "The leaves of the tree are also often smaller than those of a regular tree, and may be a different color or texture depending on the species.",
+         "The bonsai is typically planted in a shallow pot or container that is designed to fit the small size of the tree."
+    ],
+    "brain": [
+         "The brain is a soft, spongy mass of tissue that is pinkish-gray in color.",
+         "It is roughly the size and shape of a small cauliflower, with a wrinkled surface that is divided into two hemispheres.",
+         "The hemispheres are connected by a thick bundle of nerve fibers called the corpus callosum.",
+         "The brain is surrounded by three protective layers called the meninges, which help cushion it from injury.",
+         "The brain is composed of billions of neurons, which are specialized cells that transmit signals throughout the body."
+    ],
+    "brontosaurus": [
+         "Brontosaurus was a massive dinosaur, measuring up to 75 feet in length and weighing around 30 tons.",
+         "Brontosaurus had a long, slender neck and a bulky body with four thick legs.",
+         "The head of a brontosaurus was small in proportion to its body and had a long snout with nostrils on the top.",
+         "It had small, peg-like teeth that were suited for eating plants.",
+         "The tail of a brontosaurus was long and whip-like, used for balance and communication.",
+         "It is believed that the skin of a brontosaurus was covered in scales."
+    ],
+    "buddha": [
+         "A buddha has Serene and peaceful facial expression",
+         "A buddha has Elongated earlobes, which symbolize the ability to hear the suffering of the world",
+         "A buddha has A topknot or ushnisha on the head, which symbolizes wisdom and enlightenment",
+         "A buddha has A third eye or urna on the forehead, which represents insight and intuition",
+        "A buddha has A robe or simple clothing, symbolizing detachment and non-attachment to material things"
+    ],
+    "butterfly": [
+        "It has four wings, with intricate patterns and colors.",
+        "The wings are thin and membranous, with veins running through them for support.",
+        "The wings are covered in tiny scales that give them their vibrant colors.",
+        "The body is slender and segmented, with three pairs of legs.",
+        "The head has two large compound eyes and a long proboscis for feeding on nectar.",
+        "The antennae are long and thin, with a bulbous end that helps the butterfly sense its surroundings.",
+        "The size and shape of a butterfly can vary greatly depending on the species, but they typically range from 1-3 inches in wingspan."
+    ],
+    "camera": [
+         "A camera is typically rectangular in shape, with rounded corners.",
+         "It has a lens, which is usually circular or oblong in shape and located on the front of the camera.",
+         "The body of the camera is usually made of plastic, metal, or a combination of both.",
+         "On the back of the camera, there is an LCD screen or viewfinder, which allows the user to see what they are photographing.",
+         "A camera usually has buttons or dials on the top and back for adjusting settings such as shutter speed, aperture, and ISO.",
+         "There is usually a flash located on the top of the camera, which can be manually or automatically activated.",
+         "A camera may have a strap or grip on the side for easy carrying and handling."
+    ],
+    "cannon": [
+         "It is a large, heavy artillery piece made of metal.",
+         "It has a long barrel that is often made of iron or steel.",
+         "The barrel is mounted on a carriage or wheels for mobility.",
+         "It has a breech loading mechanism that allows the gunpowder and projectile to be loaded from the rear of the barrel.",
+         "The front end of the barrel has a muzzle or mouth where the projectile is fired.",
+         "It may have a vent or touch-hole that is used to ignite the gunpowder.",
+         "Cannons usually have a variety of features for aiming and firing, such as sights, elevation adjustments, and firing mechanisms.",
+        "They may also have decorative features such as carvings or ornate designs."
+    ],
+    "car side": [
+        " A car side typically has four doors, two on each side, which are used to enter and exit the vehicle.",
+        "The body of the car is usually made up of metal panels which are painted in a specific color.",
+        "The car side may have windows or a sunroof, which allow passengers to see outside while driving.",
+         "There may be side mirrors attached to the car doors, which provide a view of the area behind the car while driving.",
+         "There may be handles or buttons on the car doors that allow passengers to open and close them easily.",
+         "The car side may have wheels and tires, which are used to move the vehicle forward."
+    ],
+    "ceiling fan": [
+         "A circular or oval-shaped body housing the motor and fan blades.",
+         "The fan blades, usually made of wood or plastic, attached to the motor housing.",
+         "A mounting bracket that attaches the fan to the ceiling.",
+         "A pull chain or switch to control the fan's speed and direction.",
+        "Optional light fixture attached to the center of the fan."
+    ],
+    "cellphone": [
+         "Cellphones come in a variety of sizes, but most are around 5-6 inches in length and 2-3 inches in width.",
+
+         "The front of the cellphone is dominated by a large touchscreen display, which takes up most of the device's real estate.",
+
+        "While most functions on a cellphone are controlled through the touchscreen, there are usually a few physical buttons on the device as well. These may include a power button, volume rocker, and a home button.",
+
+         "Almost all cellphones have at least one camera, which is usually located on the back of the device."
+    ],
+    "chair": [
+         "A seat: This is the part of the chair that you sit on. It is usually flat and rectangular in shape.",
+
+         "A backrest: The backrest is the part of the chair that supports your back. It can be straight or curved, and it may be padded or not.",
+
+         "Legs: Most chairs have four legs, which provide stability and support. They can be made of wood, metal, or plastic.",
+
+         "Armrests: Some chairs have armrests, which provide additional support for your arms and shoulders.",
+
+         "Chairs can be made of a variety of materials, including wood, metal, plastic, or a combination of these materials."
+
+    ],
+    "chandelier": [
+        "Chandelier typically has multiple arms or branches that radiate out from a central hub.",
+         "Each arm may have a light bulb or candle holder at the end.",
+         "The arms are often adorned with decorative elements such as crystals, beads, or glass shades.",
+        "The central hub may also feature decorative elements, such as a large crystal or an ornate metal design.",
+         "The chandelier may be round, oval, or have a more abstract shape."
+    ],
+    "cougar body": [
+         "They are approximately 4 to 6 feet long from nose to tail, and they can weigh between 90 and 200 pounds.",
+
+         "Cougars have a lean, muscular body that allows them to run fast and jump high.",
+
+         "Their fur is usually tan or brown, with black spots on their face and neck.",
+
+         "Their head is rounded, with a short snout, and they have large ears that are rounded at the tips.",
+
+         "Their tail is long and thick and can be up to one-third of their body length.",
+
+         "Their legs are powerful and muscular, with retractable claws that help them climb trees and catch prey.",
+
+         "They have big paws that help them run and jump, and they are also equipped with sharp claws that help them grip their prey."
+
+    ],
+    "cougar face": [
+        "A large head with a rounded shape and prominent cheekbones.",
+        "Short, rounded ears with white fur on the tips.",
+        "A short, broad snout with a pinkish nose.",
+        "Large, round eyes with vertical pupils that provide excellent vision in low light.",
+        "Whiskers that are long, stiff, and black in color.",
+        "The fur on the face is generally a light brown color."
+    ],
+    "crab": [
+        "Crabs have a hard, exoskeleton outer shell that protects their body.",
+         "They have two large claws, called chelae, that they use for defense, feeding, and other tasks.",
+         "Crabs have eight legs, which are attached to their body near the front.",
+         "They have two stalked eyes that can move independently, which gives them a wide field of vision.",
+         "Crabs come in a variety of colors and patterns, depending on the species. Some are brown, green, or red, while others have spots or stripes.",
+        "They have a flattened body shape that allows them to scuttle along the ocean floor or crawl on land."
+    ],
+    "crayfish": [
+        "A crayfish is a small, freshwater crustacean that looks similar to a miniature lobster.",
+         "They have a hard, shell-like exoskeleton that protects their body.",
+        "Their body is segmented and divided into three parts: the head, thorax, and abdomen.",
+        "The head has two pairs of antennae, one of which is longer than the other.",
+        "Their eyes are located on stalks on the top of their head and can move independently of each other.",
+        "They have eight legs, with the front two legs modified into claws or pincers.",
+        "The color of their exoskeleton can vary depending on the species, but may be brown, green, blue, or red.",
+        "They have gills located on the underside of their abdomen that help them breathe.",
+        "Adult crayfish can range in size from 2 to 6 inches in length."
+    ],
+    "crocodile": [
+         "Crocodiles have a long and powerful body covered in tough, scaly skin.",
+         "They have a large head with a pointed snout and sharp teeth.",
+        "Their eyes and nostrils are positioned on the top of their head, allowing them to see and breathe while mostly submerged in water.",
+         "Crocodiles have four short legs with webbed toes for swimming and walking on land.",
+        "Their coloration varies from dark green to brown, with a lighter underbelly."
+    ],
+    "crocodile head": [
+         "Crocodile heads are typically triangular in shape.",
+         "They have a long and pointed snout that is filled with sharp teeth.",
+         "The upper jaw is wider than the lower jaw, and it has a distinctive V-shape.",
+         "The eyes are located on top of the head, and they are positioned to allow the crocodile to see prey both above and below the water's surface.",
+         "The nostrils are located on the top of the snout and they can be closed underwater to prevent water from entering the lungs.",
+         "The skin on the head is rough and scaly, with a bumpy texture that is similar to the rest of the crocodile's body.",
+         "The head is usually darker in color than the rest of the body, with shades of grey, black, or brown."
+    ],
+    "cup": [
+        "A cup is a cylindrical or conical shaped container used for drinking liquids.",
+         "It is typically made of ceramic, glass, plastic, or metal.",
+         "Cups range in size from small espresso cups to large mugs.",
+         "The top of the cup is open and often has a lip or rim to make it easier to drink from.",
+         "The cup has a handle on one side that is used to hold and lift the cup."
+    ],
+    "dalmatian": [
+        "A dalmatian is a medium to large-sized dog breed that is known for its distinctive black spots on a white coat.",
+
+         "Dalmatians have a muscular, athletic build with a deep chest and long legs.",
+         "Their coat is short and smooth, and it has a white base color with black spots that can vary in size and shape.",
+         "Some dalmatians may have liver-colored spots instead of black spots, but this is less common.",
+         "They have a broad head with a long, tapering muzzle and dark eyes that are round and alert.",
+        "Dalmatians have high-set, floppy ears that are triangular in shape and hang close to their head.",
+        "Their tail is long, thin, and slightly curved upwards, and it is often spotted like the rest of their coat."
+    ],
+    "dollar bill": [
+        "A dollar bill is rectangular in shape and measures about 6.14 inches long and 2.61 inches wide.",
+        "The front side of a dollar bill features the portrait of George Washington, the first president of the United States.",
+        "Below the portrait is the denomination of the bill written as 'ONE DOLLAR' in green ink.",
+        "The back side of the dollar bill features an image of the Great Seal of the United States, which includes an eagle with outstretched wings and a shield in front of it.",
+        "The words THE UNITED STATES OF AMERICA appear on the top of the back side, while ONE DOLLAR is written in the center."
+    ],
+    "dolphin": [
+        "Dolphins are sleek and streamlined marine animals with a fusiform body shape, which means they have a tapered, torpedo-like body that helps them move quickly through the water.",
+        "They have a curved dorsal fin on their back, which helps them maintain balance and stability while swimming.",
+        "Dolphins have a long, pointed beak or rostrum that is used for catching fish and other prey.",
+        "They have a pair of flippers or pectoral fins on either side of their body that are used for steering and maneuvering.",
+        "Their tail or fluke is powerful and horizontally oriented, allowing them to swim at high speeds and jump out of the water.",
+        "Dolphins have a smooth, rubbery skin that is usually gray or blue-gray in color, with a lighter underside."
+    ],
+    "dragonfly": [
+        "A dragonfly has Long, slender body with two pairs of wings",
+        "A dragonfly has Large compound eyes that cover most of its head",
+        "A dragonfly has Thin, elongated abdomen with several segments",
+        "A dragonfly has Six legs that are used for perching and catching prey",
+        "A dragonfly has Brightly colored body with metallic or iridescent hues",
+        "A dragonfly has Wings that are transparent and have intricate patterns",
+        "A dragonfly has Two pairs of wings that are capable of independent movement",
+        "A dragonfly has Long, slender wings that are held perpendicular to the body when at rest"
+    ],
+    "electric guitar": [
+        "A electric guitar has A solid or semi-hollow body made of wood or other materials",
+         "A electric guitar has A long, thin neck made of wood with metal frets",
+         "A electric guitar has Six metal strings, usually made of steel or nickel, which run from the bridge of the guitar to the headstock",
+         "A electric guitar has One or more pickups, which are magnetic devices that capture the sound of the strings and send it to an amplifier",
+         "A electric guitar has Volume and tone controls, usually located on the body of the guitar, which allow the player to adjust the sound of the guitar",
+        "A electric guitar has A whammy bar or tremolo arm, which allows the player to change the pitch of the strings",
+         "A electric guitar has Tuning pegs, usually located on the headstock, which allow the player to adjust the tension of the strings and tune the guitar to different pitches"
+    ],
+    "elephant": [
+        "An elephant is a large mammal that typically stands between 8 and 13 feet tall and can weigh anywhere from 2.5 to 7 tons.",
+
+         "They have a distinctive trunk, which is a fusion of their upper lip and nose, that can be used for a variety of tasks including grasping objects, breathing, and making sounds.",
+         "Their ears are large and fan-shaped, and they use them to cool off their bodies by flapping them back and forth.",
+         "Elephants have thick gray skin that is wrinkled and tough, providing protection from predators and the sun.",
+         "Their tusks are long, curved teeth that protrude from their upper jaw and are used for defense, digging, and manipulating objects.",
+         "Elephants have four pillar-like legs that are strong and sturdy, allowing them to support their massive size."
+    ],
+    "emu": [
+         "An emu is a large, flightless bird native to Australia.",
+         "It can grow up to 6.2 feet (1.9 meters) tall and weigh up to 121 pounds (55 kilograms).",
+         "Emus have long, slender necks and small, rounded heads with a beak at the end.",
+        "Their feathers are brownish-gray and shaggy, providing insulation from both heat and cold.",
+         "Emus have powerful legs with three-toed feet. Their toes are equipped with sharp claws for defense and foraging.",
+         "They are known for their ability to run at high speeds of up to 30 miles (48 kilometers) per hour.",
+         "Male emus have a distinctive blue patch of skin on their necks that turns purple during breeding season."
+    ],
+    "euphonium": [
+        "The Euphonium is a brass instrument that is similar to a small tuba.",
+
+         "It has a conical bore and a large bell that flares out at the end.",
+
+         "The instrument is typically made of brass and has a shiny, gold or silver plated finish.",
+
+         "It has three or four valves that are played with the fingers of the right hand.",
+
+        "The euphonium has a curved shape and is held in front of the player, with the bell facing upwards."
+
+    ],
+    "ewer": [
+        "An ewer is a type of pitcher or jug that is typically used for pouring liquids.",
+
+         "Ewers are typically made of ceramic, glass, metal, or other similar materials.",
+         "They have a narrow spout at the top that is used for pouring liquids.",
+         "The body of an ewer is often curved or rounded, with a wider base that tapers up towards the top.",
+         "Many ewers have a handle on one side, which makes it easier to hold and pour."
+    ],
+    "ferry": [
+        "A ferry is a type of boat that is designed to transport people, vehicles, and cargo across a body of water.",
+
+        "Size: Ferries can vary in size, but they are typically larger than most boats. They can range from small passenger ferries that carry only a few people to large car ferries that can transport hundreds of vehicles and passengers.",
+
+        "Shape: Ferries usually have a flat bottom and a wide beam in order to provide stability and accommodate large vehicles. The bow and stern are often squared off to allow for easy loading and unloading.",
+
+        "Decking: Ferries have multiple levels or decks for passengers and vehicles. The lower decks are used for cars and trucks, while the upper decks are for passengers.",
+
+        "Wheelhouse: The bridge or wheelhouse is usually located on the upper deck and is where the captain and crew operate the ferry."
+    ],
+    "flamingo": [
+     "Flamingos are tall birds, reaching up to 4-5 feet (1.2-1.5 meters) in height.",
+    "They have long, thin legs that are usually pink in color.",
+    "Their bodies are relatively small and slender, with a curved neck and a small, pointed beak.",
+    "The feathers on their bodies are mostly pink, with darker pink or red coloring on the wings and tail.",
+    "Their eyes are small and black, and they have a distinctive black and white stripe that runs across their face and down their neck."
+    ],
+    "flamingo head": [
+         "Flamingos have a long, thin beak that is typically black or dark gray in color.",
+         "The upper part of the beak is slightly curved, while the lower part is straight.",
+         "Above the beak, flamingos have two small, black eyes that are set deep into their skull.",
+         "The skin around a flamingo's eyes is usually pale pink or white.",
+         "Flamingos have a distinctive featherless area on their face called the lore. This patch of skin is usually a brighter pink or red color than the rest of the bird's body."
+    ],
+    "garfield": [
+         "Garfield is a cartoon character, created by Jim Davis in 1978.",
+         "He is an orange tabby cat with black stripes and a round body.",
+         "Garfield has a large head with big, expressive eyes and a small nose.",
+         "He has short, stubby legs with four toes on each paw.",
+        "Garfield is often depicted wearing a collar with a bell, and sometimes a red bowtie."
+    ],
+    "gerenuk": [
+         "A gerenuk is a type of antelope that is native to East Africa.",
+         "They are relatively small, standing at around 3-4 feet tall at the shoulder.",
+         "Their most distinctive feature is their long, slender necks, which they use to reach up and eat leaves from tall trees.",
+         "Gerenuks have reddish-brown fur on their backs and white fur on their bellies, with a darker stripe running down their sides.",
+         "Both males and females have curved horns, which can grow up to around 10 inches long."
+    ],
+    "gramophone": [
+        "A gramophone, also known as a phonograph, is a device used for playing recorded sounds, especially music.",
+         "It has a turntable or rotating platform made of metal or plastic where the vinyl record sits.",
+         "The turntable is connected to a motor that spins it at a constant speed.",
+         "The tonearm is a long, thin arm that swings over the record and holds the stylus or needle.",
+         "The stylus or needle is a small, pointed piece of metal that rests on the grooves of the record and vibrates as it passes over them."
+
+    ],
+    "grand piano": [
+        "A grand piano is a large musical instrument that is typically found in concert halls, recording studios, and grand homes.",
+        "Size: A grand piano is a large instrument that typically ranges in size from 4 feet 6 inches to 9 feet long.",
+
+        "Shape: The shape of a grand piano is elongated and rectangular, with a curved tail that extends outward from the main body.",
+
+        "Lid: A grand piano has a hinged lid that can be propped open to expose the strings and soundboard.",
+
+         "Keyboard: The keyboard of a grand piano is composed of 88 keys, which are arranged in a series of white and black keys."
+    ],
+    "hawksbill": [
+        "A hawksbill is a medium-sized sea turtle that has a distinctive appearance.",
+
+        "The hawksbill has a flattened body and a tapered head that comes to a sharp point.",
+        "Its shell, or carapace, is hard and bony with a distinctive pattern of overlapping scales, or scutes.",
+        "The scutes on the carapace are raised and have a coloration that varies from brown to black with streaks of gold, orange, or red.",
+        "The hawksbill has two pairs of prefrontal scales on the top of its head, which is a unique characteristic among sea turtles."
+    ],
+    "headphone": [
+         "A headphone is a pair of audio devices designed to cover the ears and deliver sound directly to the listener.",
+         "It typically has two ear cups connected by a headband that rests on top of the head.",
+         "The ear cups are made of plastic or metal and are padded with foam or leather cushions to provide comfort and prevent sound leakage.",
+         "The ear cups are usually adjustable and can be rotated or pivoted to fit the shape of the listener's head.",
+         "The headband is also adjustable and can be loosened or tightened to fit different head sizes."
+    ],
+    "hedgehog": [
+         "Size: It is typically around 5-12 inches (13-30 cm) in length.",
+         "Body Shape: It has a spiny coat of sharp spines or quills that cover its back and sides. The quills are typically brown or black in color and can be up to 1.5 inches (4 cm) long.",
+         "Facial Features: It has a pointed snout and small eyes and ears.",
+         "Limbs: It has four short legs with claws that are used for digging and climbing.",
+         "Color: Its underbelly is usually lighter in color than its back and sides, ranging from white to beige."
+    ],
+    "helicopter": [
+         "A helicopter typically has a long, slender body with a pointed nose and a rounded tail.",
+         "It has a main rotor on top, which is a large horizontal blade that spins around and provides lift.",
+         "There is often a smaller rotor at the tail, which is used for stability and steering.",
+         "The cockpit is located near the front of the helicopter and usually has a large windshield for visibility.",
+         "The body of the helicopter may be painted in different colors or patterns depending on its purpose or the company that owns it."
+    ],
+    "ibis": [
+         "An ibis is a medium to large-sized bird with a long, curved bill that is typically down-curved.",
+        "They have a slender, streamlined shape with long legs and necks.",
+        "The feathers on their body are predominantly white, with some species having black or dark feathers on their wings or tails.",
+        "Some species of ibis have distinctive bare skin patches around their face and throat that can be brightly colored, such as red, blue, or green.",
+        "Their wingspan can range from 50-60 inches, depending on the species."
+    ],
+    "inline skate": [
+        "An inline skate consists of a boot that fits around the foot and ankle.",
+         "Attached to the bottom of the boot are three or four wheels that are arranged in a straight line.",
+         "The wheels are made of hard plastic and are designed to roll smoothly over a flat surface.",
+         "Inline skates also have a frame that connects the wheels and provides support for the boot. The frame is usually made of aluminum or other lightweight metals.",
+         "There is a brake on the back of one of the skates, which allows the skater to slow down or stop their forward motion."
+    ],
+    "joshua tree": [
+        "A Joshua tree is a type of tree that belongs to the Yucca genus and is native to the southwestern United States, particularly the Mojave Desert.",
+        "The tree can grow up to 40 feet tall, but often averages around 15-20 feet in height.",
+        "The trunk of a Joshua tree is typically thick and gnarled, with a rough, scaly texture.",
+        "The branches of the tree are also thick and twisting, and often have numerous smaller branches and twigs growing off of them.",
+        "The leaves of a Joshua tree are long and narrow, with sharp points at the end, and grow in clusters at the end of the branches."
+    ],
+    "kangaroo": [
+        "Kangaroos are marsupials, which means they carry their young in a pouch on their belly.",
+        "They have large, powerful hind legs that are built for hopping and jumping. In fact, kangaroos are the only large animals that use hopping as their primary means of locomotion.",
+        "Kangaroos are covered in fur that can range in color from gray, brown, and red to black or white.",
+        "They have a long, muscular tail that helps them balance when hopping and jumping, and can also be used as a powerful weapon if threatened.",
+        "Kangaroos have a distinctive, elongated snout with a small mouth and large ears. Their ears are especially important for detecting predators and other potential threats."
+    ],
+    "ketch": [
+        "A ketch is a type of sailing vessel that is characterized by two masts, with the main mast being taller than the mizzen mast.",
+        "A ketch typically has a long, narrow hull with a pointed bow and stern.",
+         "The main mast is located towards the front of the vessel, while the mizzen mast is towards the back.",
+         "The main mast is taller than the mizzen mast, and both masts are usually wooden.",
+         "The sails on a ketch are typically triangular in shape, with the mainsail being larger than the mizzen sail.",
+         "A ketch usually has a cockpit area towards the back of the vessel, where the helmsman can steer the boat."
+    ],
+    "lamp": [
+        "It has a base that sits on a surface, such as a table or desk.",
+        "A stem or post rises from the base, which can be straight or curved.",
+        "At the top of the stem, there is a socket that holds the light bulb.",
+        "The bulb is covered by a lampshade, which can come in various shapes and materials.",
+        "The lampshade can be attached to the socket or to the stem itself."
+    ],
+    "laptop": [
+         "A laptop is a portable computer that typically has a clamshell design.",
+         "It has a screen that is attached to a keyboard base.",
+         "The screen can range in size from 11 inches to 17 inches, depending on the model.",
+         "The keyboard is similar in layout to a desktop computer keyboard, but may be smaller to fit within the laptop's compact design.",
+         "Laptops often have a touchpad or trackpad located below the keyboard for cursor control."
+    ],
+    "llama": [
+         "Llamas are domesticated animals that belong to the camel family.",
+         "They are about 5.5 to 6 feet tall at the shoulder and weigh between 250 to 400 pounds.",
+         "Llamas have a long neck and relatively small head with large eyes and pointed ears.",
+         "Their coat is thick and fluffy, which can be various shades of brown, white, black, or grey.",
+        " Llamas have a long tail that is covered with fur, which can be braided or left free."
+    ],
+    "lobster": [
+        "A lobster is a marine crustacean that has the following characteristics:",
+
+        "A hard exoskeleton that protects its body.",
+        "A long, segmented body with a distinct head and tail.",
+        "Two large, pincer-like claws that are used for defense and catching prey.",
+        "Eight smaller legs that are used for walking and swimming."
+    ],
+    "lotus": [
+        "A lotus is a beautiful aquatic plant that is native to Asia, Australia, and North America. Here are some points to describe what a lotus looks like:",
+        
+         "The lotus plant has large, circular leaves that float on the surface of the water.",
+         "The flowers of the lotus are large and showy, with a distinct shape that is often compared to a water lily.",
+         "The petals of the lotus flower are typically pink or white, although other colors such as yellow and red can also occur.",
+        "One of the most distinctive features of the lotus flower is its seed pod, which is shaped like a cone and has many small holes."
+    ],
+    "mandolin": [
+         "A mandolin is a stringed instrument that typically has eight strings, divided into four pairs.",
+         "The body of a mandolin is usually shaped like a teardrop or an elongated oval, with a rounded back and a flat or slightly curved top.",
+        "The top of the mandolin is often made of spruce or other types of wood, while the back and sides may be made of maple or other hardwoods.",
+         "The neck of the mandolin is slender and may be made of maple or other woods, with frets inserted into the fingerboard to help the player find the correct notes.",
+         "The strings of a mandolin are often tuned in pairs, with the lower pair tuned to the same notes as a violin's G string, the middle pair tuned to the same notes as a violin's D string, and the upper pair tuned to the same notes as a violin's A string."
+    ],
+    "mayfly": [
+        "- A mayfly is a small insect, typically measuring around 1-2 centimeters in length.",
+        "- It has a slender, elongated body with two pairs of delicate, transparent wings that are held upright when at rest.",
+        "- The body is usually brown, gray or green in color, and is divided into three distinct segments: the head, thorax, and abdomen.",
+        "- The head has two large, compound eyes, two short antennae, and a pair of mouthparts for feeding on plant matter and algae.",
+        "- The thorax is where the wings and six jointed legs are attached. The legs are used for walking and clinging to surfaces, while the wings are used for flight."
+    ],
+    "menorah": [
+       " A menorah is a traditional Jewish candelabrum that is primarily used during the Hanukkah celebration.",
+
+        "- A menorah typically has eight branches or arms, plus one additional center branch or arm.",
+        "- The branches are evenly spaced and extend outward from a central stem or base.",
+        "- Each branch or arm holds a candle or lamp, for a total of nine lights.",
+        "- The center branch, known as the shamash, is usually taller or positioned higher than the other branches and is used to light the other candles."
+    ],
+    "metronome": [
+        "A metronome is a device that helps musicians keep a steady tempo while playing music.",
+        "A typical metronome is a small, box-shaped device that sits on a flat surface.",
+        "It usually stands about 4-5 inches tall and is roughly 2 inches wide and deep.",
+        " The metronome has a pendulum arm that swings back and forth at a set tempo.",
+        "The arm is attached to a weight that can be moved up or down the arm to adjust the tempo."
+    ],
+    "minaret": [
+        " A minaret is a tall, slender tower that is typically part of a mosque.",
+        "It is usually built of brick or stone and can be square, rectangular, or cylindrical in shape.",
+        "The tower can range in height from just a few meters to over 60 meters tall.",
+        " At the top of the minaret, there is often a balcony or platform that is surrounded by a railing or balustrade.",
+        " Many minarets are decorated with intricate designs, such as geometric patterns or calligraphy, that are carved into the stone or brickwork."
+    ],
+    "nautilus": [
+        "A nautilus is a marine animal that lives in the deep sea.",
+
+        "It has a spiral-shaped shell that is divided into chambers.",
+         "The shell is usually white or brown with distinctive ridges and grooves.",
+         "The nautilus has a soft body that is hidden inside its shell.",
+         "It has multiple tentacles with a total of about 90-100 tentacles."
+    ],
+    "octopus": [
+        "Octopuses typically have a rounded, bulbous head with eight long tentacles that radiate outwards from the base of the head.",
+        "The tentacles are usually lined with suction cups or suckers that help the octopus grip onto surfaces or prey.",
+        "Octopuses have a soft, flexible body that can change shape and texture to blend in with their surroundings. They may also change color to camouflage themselves or communicate with other octopuses.",
+        "Some species of octopus have distinct markings, patterns or textures on their skin. For example, the mimic octopus can mimic the appearance and movement of other sea creatures to avoid predators.",
+        "Octopuses have a beak-like mouth in the center of their lower body that they use to crush and eat their prey. They have no bones, so they can squeeze through very small spaces."
+    ],
+    "okapi": [
+        "An okapi is an unusual mammal that looks like a combination of a giraffe, a zebra, and a horse.",
+        "An okapi has a reddish-brown coat with white stripes on its legs and hindquarters, similar to a zebra.",
+         "Its neck is long like a giraffe, and it has a small head with large, round ears.",
+         "Okapis have a distinctive black and white pattern on their face, similar to that of a raccoon.",
+         "They have a long, black tongue that they use to reach leaves and buds on trees."
+    ],
+    "pagoda": [
+        "A pagoda is a type of tower-like structure that is commonly found in Asia.",
+
+         "Pagodas are typically tall and slender structures.",
+
+         "They are often made of wood, stone, brick, or a combination of these materials.",
+
+        "Pagodas have multiple tiers or levels, with each level getting smaller as it goes up.",
+        "The roofs of pagodas are usually curved or sloped, and they often feature elaborate decorations, such as dragons or other mythical creatures."
+    ],
+    "panda": [
+         "Pandas are black and white bears with a round body shape and short legs.",
+         "Their fur is mostly white with black patches around their eyes, ears, shoulders, legs, and feet.",
+         "They have black fur around their eyes, which makes them look like they are wearing eye masks.",
+         "Pandas have large, round heads with flat faces and black noses.",
+         "Their ears are black and rounded, and they have a very good sense of hearing."
+    ],
+    "pigeon": [
+        "Pigeons are typically gray or brown in color, with varying shades and patterns. Some may have iridescent feathers on their necks and wings.",
+        "They have a plump, round body shape and a small head.",
+        "Pigeons have a short, stout beak that is slightly curved downwards.",
+        "Their eyes are round and black, with a thin white ring around the pupil.",
+        "Pigeons have relatively short legs, and their feet have three toes pointing forward and one pointing backwards."
+    ],
+    "pizza": [
+        "A pizza is usually round in shape, but it can also come in square or rectangular shapes.",
+        "It is made up of a crust, toppings, and sauce.",
+        "The crust is typically a thin layer of dough, but it can also be thick and fluffy or stuffed with cheese.",
+        "Toppings can include cheese, meats (such as pepperoni or sausage), vegetables (like tomatoes or onions), and sometimes even fruit or seafood.",
+        "The sauce is usually tomato-based but can also be made with other ingredients like pesto or barbecue sauce."
+    ],
+    "platypus": [
+        "The platypus is a unique-looking animal with a mix of features from different animal groups.",
+        "It has a broad, flat tail similar to a beaver's, which helps it swim.",
+        "Its body is covered in thick, waterproof fur that ranges from dark brown to gray in color.",
+        "The platypus has webbed feet with sharp claws that it uses to dig burrows in riverbanks.",
+        "Its most distinctive feature is its bill, which is flat and wide like a duck's bill, but with a sensitive, rubbery snout that helps it detect prey underwater."
+    ],
+    "pyramid": [
+        "A pyramid is a three-dimensional geometric shape that has a polygonal base and triangular faces that meet at a single point, called the apex.",
+
+         "Pyramids have a square, rectangular, or triangular base.",
+        "The base of a pyramid is connected to triangular faces that slope upward towards a point.",
+        "The point where all the triangular faces meet is called the apex.",
+        "The height of a pyramid is the distance from the base to the apex"
+    ],
+    "revolver": [
+        "A revolver is a type of firearm that typically has the following characteristics:",
+
+         "Barrel: Revolvers usually have a long metal tube, called the barrel, that extends out from the front of the firearm.",
+
+         "Cylinder: The cylinder is a round component that holds the ammunition. It rotates to allow each chamber to line up with the barrel for firing.",
+
+         "Trigger: The trigger is the mechanism that activates the firing pin, which in turn ignites the primer in the ammunition.",
+
+         "Grip: The grip is the handle of the revolver that the shooter holds onto. It is usually made of wood or plastic and is designed to fit comfortably in the hand."
+    ],
+    "rhino": [
+        "Rhinos are large, heavy animals that typically weigh around 1,000 to 2,000 pounds.",
+         "They have short, stocky legs that are designed to support their weight and help them move quickly.",
+         "Their skin is thick and gray, with a rough, textured appearance that is covered in folds and wrinkles.",
+         "Some species of rhino have a large, distinctive horn on their nose, while others have two smaller horns.",
+        "Their heads are large and blocky, with a blunt snout and small, beady eyes."
+    ],
+    "rooster": [
+        "A rooster is a male chicken and typically has the following physical features:",
+
+         "The head is adorned with a red comb and wattles (fleshy protuberances) that hang down from the chin.",
+         "It has a curved, pointed beak that is used for pecking and eating.",
+        "The eyes are large and dark, with a sharp, intense gaze.",
+         "The neck is long and slender, with a ruff of feathers around the base."
+    ],
+    "saxophone": [
+        "A saxophone is a musical instrument that belongs to the woodwind family. It is made of brass and has a distinctive shape.",
+
+        "The saxophone has a long, curved body with a bell-shaped end.",
+        "It has a mouthpiece that is attached to a neck, which is then connected to the body of the instrument.",
+        "The body of the saxophone has keys and buttons that the player can press to change the pitch and produce different notes.",
+        "The saxophone also has a thin metal reed, which is attached to the mouthpiece."
+    ],
+    "schooner": [
+         "It has two or more masts, with the forward mast being shorter than the aft mast.",
+         "The sails are usually fore-and-aft rigged, meaning they run parallel to the length of the ship.",
+         "It has a fairly narrow hull with a sharp bow and a flat or slightly rounded bottom.",
+         "The deck is typically low and sleek, with a raised platform at the stern for the helmsman.",
+        "It often has a bowsprit, a spar that extends from the bow and supports the jib sails"
+    ],
+    "scissors": [
+        "A scissors is a tool used for cutting and has the following features:",
+
+         "Two sharp blades",
+        "Two finger holes for gripping",
+         "A pivot point that allows the blades to open and close",
+        "A handle for comfort and control"
+    ],
+    "scorpion": [
+        "Scorpions have a segmented body with eight legs and a pair of large pincers called pedipalps.",
+
+         "They have a curved tail that usually ends in a stinger.",
+
+         "Scorpions have a tough exoskeleton that varies in color from yellowish-brown to black.",
+
+         "They range in size from 1 inch to 8 inches long, depending on the species.",
+
+         "Scorpions have two small eyes on the top of their head, but they rely on their sense of touch and vibrations to detect prey and predators."
+    ],
+    "sea horse": [
+        "A seahorse is a small marine fish with a distinctive appearance.",
+
+        "A seahorse has a long, narrow body that is covered in bony plates instead of scales.",
+         "Its head is shaped like a horse's head, with a long snout and a rounded forehead.",
+         "Seahorses have two small, beady eyes set on either side of their head.",
+        "They have a small, vertical mouth that is surrounded by a ring of tentacles that they use to catch their prey."
+    ],
+    "snoopy": [
+         "A small, white, and furry dog with long droopy ears and a black nose.",
+         "It has black oval-shaped eyes with a black outline and thick black eyebrows.",
+         "It has a small round tail that curves upward.",
+         "It usually wears a red collar with a dog tag that has its name on it.",
+         "It is often depicted wearing a red doghouse with a white roof."    ],
+    "soccer ball": [
+         "A soccer ball is round in shape.",
+         "It is typically made of synthetic leather or rubber.",
+         "The ball is usually black and white in color, featuring pentagonal and hexagonal shapes.",
+         "The pentagons and hexagons on the ball are arranged in a specific pattern, often referred to as a truncated icosahedron.",
+         "The ball has a circumference of about 28 inches and a weight of about 14-16 ounces."
+    ],
+    "stapler": [
+        "A stapler is a common office accessory that is used to bind sheets of paper together.",
+
+         "It is made of plastic or metal.",
+         "It has a rectangular or cylindrical shape.",
+         "It has a base that serves as a platform for placing the paper to be stapled.",
+        "It has a hinge mechanism that allows the top part to be lifted up to insert staples."
+    ],
+    "starfish": [
+        "A starfish has a distinct shape that resembles a star or a pentagon.",
+         "It has five arms (although some species can have more) that radiate out from a central disk.",
+         "The arms are generally long and thin, tapering towards the tip.",
+         "The skin of a starfish is rough and bumpy, often covered in small spines or bumps.",
+         "Starfish come in a variety of colors, including red, orange, yellow, blue, and green."
+    ],
+    "stegosaurus": [
+        "A stegosaurus is a large, herbivorous dinosaur that lived during the late Jurassic period.",
+
+        "The stegosaurus had a distinctive appearance with a long, narrow head, short neck, and a large, round body.",
+        "It had four short legs, each with three toes that ended in hoof-like claws.",
+        "The back of the stegosaurus was covered in a series of large, bony plates that extended down the length of its spine.",
+        "These plates were arranged in pairs and alternated in size, with the larger ones located toward the center of the back and the smaller ones toward the tail."
+    ],
+    "stop sign": [
+        "A stop sign is a red, octagonal-shaped sign that is used to regulate traffic.",
+
+         "Shape: The stop sign is octagonal in shape, which means it has eight sides.",
+         "Color: The sign is predominantly red, with white lettering on it.",
+         "Lettering: The word STOP is written in all capital letters in white color in the center of the sign.",
+         "Border: The word STOP is surrounded by a white border to make it more visible."
+    ],
+    "strawberry": [
+        "A strawberry is a small, red fruit with a green stem and leaves on top.",
+        "It has a round or slightly pointed shape, with a slightly flattened bottom.",
+        "The surface of the strawberry is covered in small, yellowish seeds that are embedded in the flesh.",
+        "The flesh of the strawberry is juicy and translucent, and has a slightly grainy texture due to the seeds.",
+        "The skin of the strawberry is usually shiny and smooth, with a slightly waxy feel."
+    ],
+    "sunflower": [
+        "Sunflowers are tall plants that can grow up to 10 feet (3 meters) in height.",
+        "The stem of a sunflower is thick and sturdy, and covered in small hairs.",
+        "The leaves of a sunflower are large and green, and often have a rough texture.",
+        "The flower of a sunflower is large and round, with a diameter of up to 12 inches (30 centimeters).",
+        "Sunflowers have a distinctive yellow color, with petals that radiate outwards from a dark center."
+    ],
+    "tick": [
+         "Ticks are small, arachnid-like creatures that range in size from a grain of sand to the size of a small grape.",
+         "They have a round or oval-shaped body that is flattened and becomes engorged as they feed on blood.",
+         "Their body is often brown, black, or reddish-brown in color and has a tough, leathery texture.",
+         "Ticks have eight legs that are positioned close to their body, making them difficult to remove once they have attached themselves to a host.",
+         "Their mouthparts are designed to pierce the skin of their host and suck blood, which can cause irritation, itching, and the transmission of diseases."
+    ],
+    "trilobite": [
+        "A trilobite is an extinct marine arthropod that lived from the Cambrian period to the Permian period.",
+        "It has a distinctive three-lobed body shape, with a head, thorax, and pygidium (tail).",
+        "The body is covered in a hard, calcified exoskeleton that is divided into segments, which allowed for flexibility and movement.",
+        "The head has two large, compound eyes that are thought to have been some of the first sophisticated eyes in the animal kingdom.",
+        "The head also has antennae and mouthparts for feeding."    ],
+    "umbrella": [
+         "An umbrella is a common tool used to protect people from rain or sunlight.",
+         "It consists of a long, slender central shaft or pole, made of metal or plastic.",
+         "Attached to the top of the shaft is a series of thin, flexible metal ribs or spokes, which form the structure of the umbrella.",
+        "These ribs are covered by a canopy made of waterproof fabric, such as nylon or polyester, which is stretched over them.",
+        "The canopy is usually circular or hexagonal in shape and can vary in size from small to large, depending on the type of umbrella."
+    ],
+    "watch": [
+        "Round or square face: The face of the watch is usually round or square and contains the dial and hands.",
+
+         "Dial: The dial displays the time and may include markings for minutes, hours, and seconds.",
+
+         "Hands: The hands on the watch move around the dial to indicate the time.",
+
+        "Numerals or markers: The numerals or markers around the watch face indicate the hours or minutes.",
+
+         "Crown: The crown is used to set the time and date on the watch."
+    ],
+    "water lilly": [
+        "Water lilies are aquatic plants that float on the surface of still or slow-moving bodies of water, such as ponds or lakes.",
+        "They have large, round leaves that can grow up to 30 cm (12 in) in diameter. The leaves are usually green, but can also be purple or reddish in color.",
+        "Water lily flowers are large and showy, with many petals arranged in a circular pattern. The petals are usually white or pink, but can also be yellow or orange.",
+        "The flowers are supported by long, slender stalks that rise above the water's surface. The stalks can be up to 1 meter (3 ft) tall.",
+        "Water lilies have long, thick roots that anchor them in the mud or sediment at the bottom of the water. The roots can be several meters long and are often covered in fine, hair-like structures that help to absorb nutrients from the water."
+    ],
+    "wheelchair": [
+        "A wheelchair is a mobility device used by people who have difficulty walking or cannot walk at all.",
+         "It consists of a seat, backrest, footrests, and two large wheels at the back and two smaller wheels at the front.",
+        "The seat and backrest are usually made of padded materials for comfort.",
+        "The footrests are adjustable and swing away for easy transfer in and out of the chair.",
+        "The wheels are usually made of rubber and have push rims for the user to propel themselves."
+    ],
+    "wild cat": [
+         "Wild cats are typically medium to large-sized felines, with an average weight of around 20-40 pounds (9-18 kg).",
+         "They have muscular bodies, with short, dense fur that can come in a variety of colors and patterns, depending on the species. For example, a leopard has a distinctive pattern of black rosettes on a golden-orange background, while a tiger has vertical black stripes on a reddish-orange coat.",
+         "Wild cats have sharp, retractable claws that they use for hunting and climbing.",
+         "Their heads are usually round or oval-shaped, with short, rounded ears, and large, expressive eyes that range in color from yellow to green to blue.",
+        "Some species of wild cats, like lions and tigers, have distinctive manes or tufts of hair on their ears, while others, like cheetahs and leopards, have more streamlined features."
+    ],
+    "windsor chair": [
+         "It has a solid wooden seat that is usually saddle-shaped.",
+         "The backrest is composed of several thin vertical spindles or rods.",
+         "The legs are turned or tapered and are joined to the seat with mortise and tenon joints.",
+         "The arms, if present, are usually curved and supported by additional spindles.",
+         "The chair may have a decorative crest rail at the top of the backrest."
+    ],
+    "wrench": [
+        "A wrench is a tool used for tightening or loosening bolts, nuts, and other fasteners.",
+
+         "A wrench typically has a long and slender body with a curved or angled shape.",
+         "At one end of the body, there is a fixed or adjustable jaw that can grip the fastener.",
+        "The jaw is usually flat and smooth to prevent damage to the fastener.",
+        "At the other end of the body, there is a handle that provides leverage for turning the wrench."
+    ],
+    "yin yang": [
+         "A circular symbol with two halves of equal size.",
+        "One half of the symbol is black and the other half is white.",
+        "There is a small circle of the opposite color within each half.",
+        "The black half of the symbol has a white dot in the center, while the white half has a black dot in the center.",
+        "The two halves of the symbol are connected by a curved line that separates them."
+    ]
+}
