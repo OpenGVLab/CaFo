@@ -53,13 +53,15 @@ $DATA/
 |–– ...
 |–– sd_caltech-101/
 ```
-* For Caltech-101 dataset, we also provide **Stable Diffusion's** generated images from [here](https://drive.google.com/drive/folders/1e249OgUFCmpfEDPsxCVR-nNb6Q1VaZVW?usp=sharing), and **ChatGPT's** prompts in `gpt_file/`.
+* For Caltech-101 dataset, we also provide **Stable Diffusion's** images from [here](https://drive.google.com/drive/folders/1e249OgUFCmpfEDPsxCVR-nNb6Q1VaZVW?usp=sharing), and **ChatGPT's** prompts in `gpt_file/`.
 
 ## Get Started
 ### Configs
 The running configurations for different `[dataset]` with `[k]` shots can be modified in `configs/[dataset]/[k]shot.yaml`, including visual encoders and hyperparamters. We have provided the configurations for reproducing the results in the paper. You can edit the `search_scale`, `search_step`, `init_beta` and `init_alpha` for fine-grained tuning and better results.
 
 Note that the default `load_cache` and `load_pre_feat` are `False` for the first running, which will store the cache model and val/test features in `configs/dataset/`. For later running, they can be set as `True` for faster hyperparamters tuning.
+
+For Caltech101 dataset, the config of Stable Diffusion's images and ChatGPT's prompts is respectively in `configs/sd_caltech101` and `configs/chat_caltech101`.
 
 ### Running
 For 16-shot ImageNet dataset:
@@ -70,6 +72,7 @@ For other 10 datasets:
 ```bash
 CUDA_VISIBLE_DEVICES=0 python main.py --config configs/dataset/16shot.yaml
 ```
+
 
 ## Acknowledgement
 This repo benefits from [Tip-Adapter](https://github.com/gaopengcuhk/Tip-Adapter), [CLIP](https://github.com/openai/CLIP), [DINO](https://github.com/facebookresearch/dino), [DALL-E](https://github.com/borisdayma/dalle-mini) and [CuPL](https://github.com/sarahpratt/CuPL). Thanks for their wonderful works.
