@@ -1,0 +1,37 @@
+# ------ root_path ------
+root_path: ''
+
+
+# ------ Load Cache and Features ------
+load_cache: False
+load_pre_feat: False
+
+# load_cache: True
+# load_pre_feat: True
+
+
+# ------ Hyperparamters ------
+search_hp: True
+# search_hp: False
+
+search_scale: [12, 5]
+search_step: [200, 20]
+
+init_beta: 1
+init_alpha: 1.1
+
+gpt3_prompt_file: './gpt_file/caltech_prompt_chat.json'
+
+# ------ Basic Config ------
+dataset: 'caltech101'
+shots: 4
+clip_backbone: 'RN50'
+dino_backbone: 'resnet50'
+
+# ------ Dalle Dataset -----
+dalle_dataset: 'dalle_caltech'
+dalle_shots: 4
+
+lr: 0.001
+augment_epoch: 10
+train_epoch: 20
