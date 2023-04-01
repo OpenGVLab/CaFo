@@ -6,7 +6,7 @@ The paper has been accepted by **CVPR 2023** 🔥.
 
 ## News
 * Please check our latest work ['Point-NN, Parameter is Not All You Need'](https://arxiv.org/pdf/2303.08134.pdf) with [code](https://github.com/ZrrSkywalker/Point-NN), accepted by **CVPR 2023** 🔥, which conducts 3D understanding without ant parameters or training.
-* We will soon release CaFo cascaded with [ChatGPT](https://openai.com/blog/chatgpt) and [Stable Diffusion](https://github.com/CompVis/stable-diffusion) 📌.
+* CaFo cascaded with [ChatGPT](https://openai.com/blog/chatgpt) and [Stable Diffusion](https://github.com/CompVis/stable-diffusion) on Caltech-101 dataset has been released 📌.
 * The code of CaFo has been released.
 * The CaFo model is developed based on [Tip-Adapter](https://arxiv.org/pdf/2207.09519), accepted by **ECCV 2022** and [open-sourced](https://github.com/gaopengcuhk/Tip-Adapter).
 
@@ -51,7 +51,9 @@ $DATA/
 |–– dalle_caltech-101/
 |–– dalle_oxford_pets/
 |–– ...
+|–– sd_caltech-101/
 ```
+* For Caltech-101 dataset, we provide **Stable Diffusion's** generated images also from [here](https://drive.google.com/drive/folders/1e249OgUFCmpfEDPsxCVR-nNb6Q1VaZVW?usp=sharing), and **ChatGPT's** prompts in `gpt_file/`.
 
 ## Get Started
 ### Configs
