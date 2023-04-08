@@ -18,6 +18,7 @@ We propose **CaFo**, a **Ca**scade of **Fo**undation models that incorporates di
 </div>
 
 ## Requirements
+
 ### Installation
 Create a conda environment and install dependencies:
 ```bash
@@ -72,6 +73,11 @@ For other 10 datasets:
 ```bash
 CUDA_VISIBLE_DEVICES=0 python main.py --config configs/dataset/16shot.yaml
 ```
+
+### Numerical Results
+
+We provide CaFo's numerical results on 11 datasets from 1 to 16 shots at [exp_Cafo.log](https://github.com/ZrrSkywalker/CaFo/blob/main/exp.log).
+The results for Tip-Adapter and Tip-Adapter-F is at [exp_Tip.log](https://github.com/gaopengcuhk/Tip-Adapter/blob/main/exp.log).
 
 
 ## Acknowledgement
