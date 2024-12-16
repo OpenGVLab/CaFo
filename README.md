@@ -22,7 +22,7 @@ We propose **CaFo**, a **Ca**scade of **Fo**undation models that incorporates di
 ### Installation
 Create a conda environment and install dependencies:
 ```bash
-git clone https://github.com/ZrrSkywalker/CaFo.git
+git clone https://github.com/OpenGVLab/CaFo.git
 cd CaFo
 
 conda create -n cafo python=3.7
